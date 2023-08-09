@@ -1,0 +1,8 @@
+{
+    "username": "userame@email.com",
+    "password": "password",
+    "interested_roles": [
+        "data scientist",
+        "data analyst"
+    ]
+}
